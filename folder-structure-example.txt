@@ -1,0 +1,22 @@
+your-repo/
+├── .github/
+│   └── copilot-instructions.md
+├── memory-bank/
+│   ├── projectbrief.md
+│   ├── productContext.md
+│   ├── systemPatterns.md
+│   ├── techContext.md
+│   ├── progress.md
+│   ├── copilot-rules.md
+│   ├── memory-bank-instructions.md
+│   └── <feature-name>/
+│       ├── prd.md
+│       ├── design.md
+│       ├── tasks.md
+│       └── context.md
+
+memory-bank/authentication/
+├── prd.md
+├── design.md
+├── tasks.md
+└── context.md
